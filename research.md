@@ -25,8 +25,8 @@
 - Not a lot of sub-sections on the websites, doesn't overwhelm the visitors
 - None of the files are self-hosted (website hosted by wordpress, files hosted by google drive), leading to no hosting cost for Ruin
 - Very interpersonal atmosphere to the site, very different from corporate feel of Stryker's site
-  - There isn't even a form to contact Ruin, just her email
-  - Lot of personal updates, such as how her health is doing, of which there is 0 in Stryker's website.
+  - There isn't even a form to contact Ruin, just xir email
+  - Lot of personal updates, such as how xir health is doing, of which there is 0 in Stryker's website.
 
 ### Cons - Ruin
 
